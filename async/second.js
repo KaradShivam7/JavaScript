@@ -12,7 +12,7 @@ let tiid=setTimeout((v)=>{
     console.log(v);
     
     clearTimeout(tiid);
-},4000,["alan","jones"]); /** */
+},4000,["alan","jones","henery"]); /** */
 
 //Demo();
 //console.log("Lagechach");
