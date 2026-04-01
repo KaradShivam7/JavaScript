@@ -8,7 +8,7 @@ let Obj=
         Area:"23345sq km"
     },
 {
-        sub:"Dhule",
+        sub:"Latur",
         Post:"Amaravamati",
         Area:"23km"
     }],
