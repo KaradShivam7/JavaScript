@@ -6,7 +6,7 @@
 let Obj2=
 {
     pin:"112233",
-    divisions:["kondhwa","karvenagar","warje"],
+    divisions:["kondhwa","karvenagar","warje","wakad"],
      display:function()
      {
         console.log(this.divisions);
