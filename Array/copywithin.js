@@ -3,7 +3,7 @@
 
 
  
-let arr=['apple','banana','cherry','dragon'];
+let arr=['apple','banana','cherry','dragon','mango'];
 
 
 //apple ,banana,apple,banana
